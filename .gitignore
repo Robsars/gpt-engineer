@@ -13,14 +13,8 @@ build/
 *.egg
 
 # Virtual environments
-.env*
-*.env
-.env
-!.env
-.env.sh
-venv*
-ENV*
-venv_test_installation/
+*.env*
+*.venv*
 
 # IDE-specific files
 .vscode/
@@ -99,5 +93,4 @@ gpt_engineer/benchmark/benchmarks/mbpp/dataset
 gpt_engineer/benchmark/minimal_bench_config.toml
 
 test.json
-.env
-/.venv
+

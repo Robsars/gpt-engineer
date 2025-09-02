@@ -12,12 +12,8 @@ build/
 *.egg
 
 # Virtual environments
-.env
-.env*
-.env.sh
-venv/
-/venv
-ENV/
+*.env*
+*.venv*
 
 # IDE-specific files
 .vscode/
