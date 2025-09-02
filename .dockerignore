@@ -13,8 +13,10 @@ build/
 
 # Virtual environments
 .env
+.env*
 .env.sh
 venv/
+/venv
 ENV/
 
 # IDE-specific files
